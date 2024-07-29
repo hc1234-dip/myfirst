@@ -1,4 +1,4 @@
-ull-requests are very welcomed. __Please do not list any confidential projects!__
+
 
 For a working example of (some) of these technologies integrated together, see:
 https://github.com/google/startup-os
