@@ -1,5 +1,4 @@
-A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)
-pull-requests are very welcomed. __Please do not list any confidential projects!__
+ull-requests are very welcomed. __Please do not list any confidential projects!__
 
 For a working example of (some) of these technologies integrated together, see:
 https://github.com/google/startup-os
